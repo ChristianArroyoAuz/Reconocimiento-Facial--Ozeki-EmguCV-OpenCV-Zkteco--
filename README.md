@@ -1,33 +1,33 @@
-# Reconocimiento-Facial--Ozke-EmguCV-OpenCV-Zkteco--
+# Reconocimiento-Facial--Ozeki-EmguCV-OpenCV-Zkteco--
 
-Por favor, use este identificador para citar o enlazar este Ìtem: http://bibdigital.epn.edu.ec/handle/15000/20477
+Por favor, use este identificador para citar o enlazar este √≠tem: http://bibdigital.epn.edu.ec/handle/15000/20477
 
-TÌtulo: Desarrollo de un sistema prototipo de acceso a los laboratorios de redes de la Facultad de IngenierÌa ElÈctrica y 
-        ElectrÛnica (FIEE) de la Escuela PolitÈcnica Nacional (EPN) basado en reconocimiento facial
+T√≠tulo: Desarrollo de un sistema prototipo de acceso a los laboratorios de redes de la Facultad de Ingenier√≠a El√©ctrica y 
+        Electr√≥nica (FIEE) de la Escuela Polit√©cnica Nacional (EPN) basado en reconocimiento facial
 
 Autor: Arroyo Auz, Christian Xavier
 
 Palabras clave: REDES
 		HUELLAS DACTILARES
-		TECNOLOGÕA
+		TECNOLOG√çA
 
-Fecha de publicaciÛn: 29-jul-2019
+Fecha de publicaci√≥n: 29-jul-2019
 
 Editorial: Quito, 2019.
 
-CitaciÛn: Arroyo Auz, C. X. (2019). Desarrollo de un sistema prototipo de acceso a los laboratorios de redes de la Facultad
-          de IngenierÌa ElÈctrica y ElectrÛnica (FIEE) de la Escuela PolitÈcnica Nacional (EPN) basado en reconocimiento facial.
+Citaci√≥n: Arroyo Auz, C. X. (2019). Desarrollo de un sistema prototipo de acceso a los laboratorios de redes de la Facultad
+          de Ingenier√≠a El√©ctrica y Electr√≥nica (FIEE) de la Escuela Polit√©cnica Nacional (EPN) basado en reconocimiento facial.
           183 hojas. Quito : EPN.
 
-Resumen .- A lo largo del mundo diferentes empresas, compaÒÌas e incluso personas comunes hacen uso de la tecnologÌa de reconocimiento
-	facial; esta tecnologÌa permite acceder a diferentes lugares e incluso les permite obtener informaciÛn personal. Esta misma
-	tecnologÌa es usada habitualmente en la telefonÌa mÛvil; ya que muchos celulares actuales proveen de este servicio para desbloquear
-	el dispositivo. Este trabajo de titulaciÛn propone implementar un sistema prototipo de acceso al Laboratorio de Redes de la Facultad
-	de IngenierÌa ElÈctrica y ElectrÛnica (FIEE) de la Escuela PolitÈcnica Nacional (EPN) basado en reconocimiento facial, huella dactilar
-	y PIN de acceso; para lo cual se utiliza el entorno de desarrollo integrado ìVisual Studioî con el lenguaje de programaciÛn orientado
-	a objetos ìC#î para la aplicaciÛn de escritorio en conjunto con las librerÌas OpenCV, EmguCV, Ozeki, ZKteco e iText sobre un ambiente
-	Windows. Como hardware se utiliza: c·mara IP, lector de huella dactilar, panel numÈrico, router, usb hub y un computador donde se alojar·
-	la aplicaciÛn de escritorio y la base de datos. El prototipo est· orientado a tratar de mejorar el sistema de seguridad ya existente del
+Resumen .- A lo largo del mundo diferentes empresas, compa√±√≠as e incluso personas comunes hacen uso de la tecnolog√≠a de reconocimiento
+	facial; esta tecnolog√≠a permite acceder a diferentes lugares e incluso les permite obtener informaci√≥n personal. Esta misma
+	tecnolog√≠a es usada habitualmente en la telefon√≠a m√≥vil; ya que muchos celulares actuales proveen de este servicio para desbloquear
+	el dispositivo. Este trabajo de titulaci√≥n propone implementar un sistema prototipo de acceso al Laboratorio de Redes de la Facultad
+	de Ingenier√≠a El√©ctrica y Electr√≥nica (FIEE) de la Escuela Polit√©cnica Nacional (EPN) basado en reconocimiento facial, huella dactilar
+	y PIN de acceso; para lo cual se utiliza el entorno de desarrollo integrado ‚ÄúVisual Studio‚Äù con el lenguaje de programaci√≥n orientado
+	a objetos ‚ÄúC#‚Äù para la aplicaci√≥n de escritorio en conjunto con las librer√≠as OpenCV, EmguCV, Ozeki, ZKteco e iText sobre un ambiente
+	Windows. Como hardware se utiliza: c√°mara IP, lector de huella dactilar, panel num√©rico, router, usb hub y un computador donde se alojar√°
+	la aplicaci√≥n de escritorio y la base de datos. El prototipo est√° orientado a tratar de mejorar el sistema de seguridad ya existente del
 	Laboratorio de Redes de la FIEE de la EPN.
 
 Abstract .- Throughout the world different companies and even ordinary people make use of facial recognition technology; this technology allows
@@ -42,5 +42,5 @@ Abstract .- Throughout the world different companies and even ordinary people ma
 
 URI: http://bibdigital.epn.edu.ec/handle/15000/20477
 
-Aparece en las colecciones:	Tesis ElectrÛnica y Redes de InformaciÛn (IER)
+Aparece en las colecciones:	Tesis Electr√≥nica y Redes de Informaci√≥n (IER)
  
